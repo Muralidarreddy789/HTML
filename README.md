@@ -8,7 +8,7 @@ This Page is only for HTML
               
                                                  "BASIC STRUCTURE OF HTML"
                                                  
-    Page Structure:-   This structure will be the foundational buliding block of any HTML web page we will start off with a very simple page
+     Page Structure:-   This structure will be the foundational buliding block of any HTML web page we will start off with a very simple page
      Step1:- We need to open notepad in windows or text wangler if you are on a mac
      Step2:-first of all the documents begins with DOCTYPE.html tag (<!DOCTYPE.html>). This tag tells the browser that the markup of the language in which the page is written is               HTML
      Step3:-After the <!DOCTYPE.html> comes the open html tag (<html>).The <html> is the buliding blockfor our page most of the other tags will be nested within the open html tags             in the </html>(closing html tag)
