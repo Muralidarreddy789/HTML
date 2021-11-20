@@ -1,11 +1,11 @@
 ```
 This Page is only for HTML
 ```
-                       HTML introduction
-              1:HTML communicates intsructions to the web browser.
-              2:Indicates how the page should be presented to the viewers.
-              
-              
+                                                 "HTML Introduction"
+     1:HTML communicates intsructions to the web browser.
+     2:Indicates how the page should be presented to the viewers.
+                                                 
+                                                 
                                                  "BASIC STRUCTURE OF HTML"
                                                  
      Page Structure:-   This structure will be the foundational buliding block of any HTML web page we will start off with a very simple page
